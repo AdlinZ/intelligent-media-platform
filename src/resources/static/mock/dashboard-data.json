@@ -1,0 +1,24 @@
+{
+  "statistics": {
+    "totalReads": 12580,
+    "readsTrend": 12.5,
+    "avgLikesRate": 3.8,
+    "likesTrend": 2.3,
+    "shares": 845,
+    "sharesTrend": 5.7,
+    "comments": 326,
+    "commentsTrend": -1.2
+  },
+  "traffic": {
+    "dates": ["10/1", "10/2", "10/3"],
+    "reads": [3200, 4500, 4880],
+    "likes": [120, 180, 165],
+    "shares": [230, 310, 305]
+  },
+  "interaction": {
+    "likes": 470,
+    "comments": 326,
+    "shares": 845,
+    "saves": 520
+  }
+}
