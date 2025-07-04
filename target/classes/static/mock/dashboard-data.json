@@ -1,0 +1,78 @@
+{
+  "statistics": {
+    "totalReads": 12580,
+    "readsTrend": 12.5,
+    "avgLikesRate": 3.8,
+    "likesTrend": 2.3,
+    "shares": 845,
+    "sharesTrend": 5.7,
+    "comments": 326,
+    "commentsTrend": -1.2,
+    "totalContent": 156,
+    "contentGrowth": 8.5
+  },
+  "traffic": {
+    "dates": ["12/01", "12/02", "12/03", "12/04", "12/05", "12/06", "12/07"],
+    "reads": [3200, 4500, 4880, 5200, 4800, 5600, 6100],
+    "likes": [120, 180, 165, 200, 185, 220, 240],
+    "shares": [230, 310, 305, 350, 320, 380, 420],
+    "comments": [45, 68, 52, 75, 60, 85, 95]
+  },
+  "userEngagement": {
+    "labels": ["点赞", "评论", "转发", "收藏"],
+    "data": [470, 326, 845, 520],
+    "colors": ["#409EFF", "#67C23A", "#E6A23C", "#F56C6C"]
+  },
+  "contentAnalysis": {
+    "categories": ["科技", "娱乐", "体育", "财经", "教育"],
+    "performance": [85, 72, 68, 91, 76],
+    "engagement": [4.2, 3.8, 3.5, 4.8, 3.9]
+  },
+  "hotContent": [
+    {
+      "rank": 1,
+      "title": "人工智能在媒体行业的应用前景",
+      "category": "科技",
+      "reads": 12580,
+      "likes": 845,
+      "shares": 326,
+      "engagement": 8.5
+    },
+    {
+      "rank": 2,
+      "title": "2024年内容创作趋势分析",
+      "category": "娱乐",
+      "reads": 10890,
+      "likes": 720,
+      "shares": 285,
+      "engagement": 7.8
+    },
+    {
+      "rank": 3,
+      "title": "短视频平台的用户行为研究",
+      "category": "科技",
+      "reads": 9650,
+      "likes": 680,
+      "shares": 245,
+      "engagement": 7.2
+    },
+    {
+      "rank": 4,
+      "title": "新媒体营销策略深度解析",
+      "category": "财经",
+      "reads": 8920,
+      "likes": 620,
+      "shares": 210,
+      "engagement": 6.9
+    },
+    {
+      "rank": 5,
+      "title": "内容创作者如何提升影响力",
+      "category": "教育",
+      "reads": 7840,
+      "likes": 580,
+      "shares": 195,
+      "engagement": 6.5
+    }
+  ]
+}
